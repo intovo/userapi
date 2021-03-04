@@ -2,11 +2,13 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/intovo/userapi):
+Clone the repo and install npm packages
 
-Install it and run:
+Run
 
 ```sh
+git clone git@github.com:intovo/userapi.git
+cd userapi
 npm install
 npm start
 ```
